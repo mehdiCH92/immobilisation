@@ -175,41 +175,41 @@
                                         <tr>
                                             <td><img src="img/check.png" alt=""> Home theater</td>
                                             <td><img src="img/check.png" alt=""> Carpeting</td>
-                                            <td><img src="img/check.png" alt=""> Attic fans</td>
+                                            <td><img src="img/cros.png" alt=""> Attic fans</td>
                                         </tr>
                                         <tr>
                                             <td><img src="img/check.png" alt=""> Media room</td>
-                                            <td><img src="img/check.png" alt=""> Concrete</td>
+                                            <td><img src="img/cros.png" alt=""> Concrete</td>
                                             <td><img src="img/check.png" alt=""> Ceiling fans</td>
                                         </tr>
                                         <tr>
-                                            <td><img src="img/check.png" alt=""> Family room</td>
+                                            <td><img src="img/cros.png" alt=""> Family room</td>
                                             <td><img src="img/check.png" alt=""> Bamboo</td>
                                             <td><img src="img/check.png" alt=""> Thermostats</td>
                                         </tr>
                                         <tr>
                                             <td><img src="img/check.png" alt=""> Gym/workout room</td>
-                                            <td><img src="img/check.png" alt=""> Stone</td>
+                                            <td><img src="img/cros.png" alt=""> Stone</td>
                                             <td><img src="img/check.png" alt=""> Single flush toilets</td>
                                         </tr>
                                         <tr>
                                             <td><img src="img/check.png" alt=""> Library</td>
                                             <td><img src="img/check.png" alt=""> Tile</td>
-                                            <td><img src="img/check.png" alt=""> Window shutters</td>
+                                            <td><img src="img/cros.png" alt=""> Window shutters</td>
                                         </tr>
                                         <tr>
                                             <td><img src="img/check.png" alt=""> Butler's pantry</td>
-                                            <td><img src="img/check.png" alt=""> Laminate</td>
+                                            <td><img src="img/cros.png" alt=""> Laminate</td>
                                             <td><img src="img/check.png" alt=""> Solar heat</td>
                                         </tr>
                                         <tr>
                                             <td><img src="img/check.png" alt=""> Sunroom</td>
                                             <td><img src="img/check.png" alt=""> Cork</td>
-                                            <td><img src="img/check.png" alt=""> Solar plumbing</td>
+                                            <td><img src="img/cros.png" alt=""> Solar plumbing</td>
                                         </tr>
                                         <tr>
                                             <td><img src="img/check.png" alt=""> Downstairs's bedroom</td>
-                                            <td><img src="img/check.png" alt=""> Vinyl / linoleum</td>
+                                            <td><img src="img/cros.png" alt=""> Vinyl / linoleum</td>
                                             <td><img src="img/check.png" alt=""> Solar Screens</td>
                                         </tr>
                                         <tr>
@@ -220,7 +220,7 @@
                                         <tr>
                                             <td><img src="img/check.png" alt=""> Guest quarters</td>
                                             <td><img src="img/check.png" alt=""> Marble</td>
-                                            <td><img src="img/check.png" alt=""> Tankless water heater</td>
+                                            <td><img src="img/cros.png" alt=""> Tankless water heater</td>
                                         </tr>
                                         <tr>
                                             <td><img src="img/check.png" alt=""> Wine storage</td>
@@ -228,6 +228,7 @@
                                             <td><img src="img/check.png" alt=""> Skylights or sky tubes</td>
                                         </tr>
                                     </table>
+                               
                                 </div>
                             </div>
                             <div class="location-map">
@@ -242,24 +243,24 @@
                 <div class="row pb-30">
                     <div class="col-lg-12">
                         <div class="contact-service">
-                            <img src="img/single-property/small.png" alt="">
+                            <img class="rounded-circle" src="img/moi.jpg" alt="">
                             <p>Listed by</p>
-                            <h5>Oliver G Harris</h5>
+                            <h5>CHOUTRI Mehdi</h5>
                             <table>
                                 <tr>
-                                    <td>Office : <span>1-139-954-3228</span></td>
+                                    <td>Office : <span>021 84 60 08</span></td>
                                 </tr>
                                 <tr>
-                                    <td>Mobile : <span>1-517-328-7751</span></td>
+                                    <td>Mobile : <span>+213 779 60 83 39</span></td>
                                 </tr>
                                 <tr>
-                                    <td>Fax : <span>1-458-284-9871</span></td>
+                                    <td>Fax : <span>+213 779 60 83 3</span></td>
                                 </tr>
                                 <tr>
-                                    <td>WhatsApp : <span>1-812-117-2663</span></td>
+                                    <td>WhatsApp : <span>+213 779 60 83 3</span></td>
                                 </tr>
                                 <tr>
-                                    <td>Email : <span>oliver@homes.com</span></td>
+                                    <td>Email : <span>mehdi.kadi.chou@gmail.com</span></td>
                                 </tr>
                             </table>
                             <a href="#" class="site-btn list-btn">View More Listings</a>
